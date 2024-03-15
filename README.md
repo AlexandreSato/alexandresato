@@ -24,3 +24,5 @@
 - 🗃️ I have 10 years of experience as an Administrative Analyst in a public institution.
 - 🔧 I previously worked with mechanical, electronic and pneumatic maintenance.
 - 🚗 Fun fact: I hack my car and maintain a fork of openpilot just 4 fun [Give it a try.](https://github.com/alexandresato/openpilot/tree/personal3)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=alexandresato&theme=highcontrast&show_icons=true&count_private=true)
