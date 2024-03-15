@@ -14,7 +14,7 @@
   </a>  
   <br><img src="https://komarev.com/ghpvc/?username=alexandresato&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there,Alexandre Sato here!
+    hey there, Alexandre Sato here!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -26,3 +26,4 @@
 - 🚗 Fun fact: I hack my car and maintain a fork of openpilot just 4 fun [Give it a try.](https://github.com/alexandresato/openpilot/tree/personal3)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=alexandresato&theme=highcontrast&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresato&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
