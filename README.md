@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>  
 </div>
+<img src="https://komarev.com/ghpvc/?username=alexandresato&style=flat-square&color=blue" alt=""/>
 
 - 🔭 I’m currently searching for a job
 - 🗃️ I have 10 years of experience as an Administrative Analyst in a public institution.
