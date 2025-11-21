@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/alexandre-sato-025a7013b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/@comma_ai.brasil">
+  <a href="https://www.youtube.com/@commabrasil">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.instagram.com/alexandresatobmx/">  
