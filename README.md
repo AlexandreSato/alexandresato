@@ -27,5 +27,11 @@
 - 🔧 I previously worked with mechanical, electronic and pneumatic maintenance.
 - 🚗 Fun fact: I hack my car and maintain a fork of openpilot just 4 fun [Give it a try.](https://github.com/alexandresato/openpilot/tree/personal3)
 
+<!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=alexandresato&theme=highcontrast&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresato&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=alexandresato&theme=highcontrast&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs/?username=alexandresato&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
