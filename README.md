@@ -32,5 +32,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresato&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=alexandresato&theme=highcontrast&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs/?username=alexandresato&layout=compact&langs_count=10&hide_progress=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=alexandresato)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alexandresato&layout=compact)
